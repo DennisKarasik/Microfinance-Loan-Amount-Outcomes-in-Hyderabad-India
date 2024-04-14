@@ -6,4 +6,6 @@
 
 • Research data source from the American Economic Association
 
-# (https://www.openicpsr.org/openicpsr/project/113599/version/V1/view?path=/openicpsr/113599/fcr:versions/V1/2013-0533_data--TO-SUBMIT-&type=folder)
+For more info, visit:
+
+# https://www.openicpsr.org/openicpsr/project/113599/version/V1/view?path=/openicpsr/113599/fcr:versions/V1/2013-0533_data--TO-SUBMIT-&type=folder
