@@ -1,6 +1,6 @@
 **Data Analysis Project: Microfinance Loan Amounts in Hyderabad, India**
 
-• Used Python (Pandas, NumPy, SciPy, and Statsmodels) to assess the impact of Economic variables on microfinance loan treatment and control groups
+• Used Python (Pandas, NumPy, SciPy, and Statsmodels) to analyze Microfinance loan amounts in Hyderabad, India, assessing the impact of 5 key variables on control and treatment groups
 
 • Performed regression analysis and examined mean differences between cohorts using statistical testing
 
